@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="slide_1_bg_color">#f42279</color>
+    <color name="slide_2_bg_color">#0a9365</color>
+    <color name="slide_3_bg_color">#0a7fbe</color>
+    <color name="slide_4_bg_color">#9316b9</color>
+    
+    <color name="dot_inactive">#a3a3a3</color>
+    <color name="dot_active">#ffffff</color>
+</resources>
+
